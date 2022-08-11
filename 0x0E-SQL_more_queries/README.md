@@ -1,2 +1,3 @@
-SQL - Introduction
-This was my first project in which I began to work with SQL and relational databases. I began practicing introductory data definition and data manipulation language, making subqueries, and using functions.
+SQL - More queries
+
+In this project, I continued to practicing SQL queries, working with permissoins, joins, and constraints.
